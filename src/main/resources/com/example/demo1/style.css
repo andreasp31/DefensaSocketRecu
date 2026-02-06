@@ -1,0 +1,17 @@
+.botonNuevo{
+    -fx-background-color:#005461 ;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
+
+.botonEnviar{
+    -fx-background-color:#0C7779 ;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
+
+.botonSalir{
+    -fx-background-color:#FD8A6B ;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
